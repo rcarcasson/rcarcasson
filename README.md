@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2>¡Hola!👋, soy Ricardo Carcassón</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Lead Engineer en <a href="https://www.everis.cl">everis Chile</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**rcarcasson/rcarcasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/rcarcasson?label=Follow)](https://twitter.com/intent/follow?screen_name=rcarcasson)
+[![Linkedin: ricardo.carcasson](https://img.shields.io/badge/ricardo.carcasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo.carcasson/)](https://www.linkedin.com/in/ricardo.carcasson/)
+![GitHub followers](https://img.shields.io/github/followers/rcarcasson?label=Follow&style=social)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const rcarcasson = {
+    code: ["Javascript", "Typescript", "PHP", "Java", "C#"],
+    askMeAbout: ["web dev", "tech", "app dev", "videogames"],
+    technologies: {
+        mobileApp: ["Ionic", "Flutter"],
+        frontEnd: {
+            js: ["Angular"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo", "MySql", "oracle"],
+        misc: ["Firebase", "Socket.IO", "php"]
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    currentFocus: "Learning about Unit Test",
+    funFact: "Make a programm is like raising a child",
+    pets: "A cat",
+    videoGameSystem: "PS4",
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
