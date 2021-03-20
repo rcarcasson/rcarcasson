@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rcarcasson?label=Follow)](https://twitter.com/intent/follow?screen_name=rcarcasson)
-[![Linkedin: ricardocarcasson](https://img.shields.io/badge/ricardocarcasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo.carcasson/)](https://www.linkedin.com/in/ricardo.carcasson/)
+[![Linkedin: ricardocarcasson](https://img.shields.io/badge/ricardocarcasson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardocarcasson/)](https://www.linkedin.com/in/ricardocarcasson/)
 ![GitHub followers](https://img.shields.io/github/followers/rcarcasson?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi...  
@@ -21,6 +21,7 @@ const rcarcasson = {
         },
         backEnd: {
             js: ["node", "express"],
+            java: ["spring"]
         },
         databases: ["mongo", "MySql", "oracle"],
         misc: ["Firebase", "Socket.IO", "php"]
