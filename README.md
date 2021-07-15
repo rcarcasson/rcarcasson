@@ -1,6 +1,6 @@
 <h2>¡Hola!👋, soy Ricardo Carcassón</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Lead Engineer en <a href="https://www.everis.cl">everis Chile</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mobile Developer en <a href="https://www.3it.cl">3it</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rcarcasson?label=Follow)](https://twitter.com/intent/follow?screen_name=rcarcasson)
