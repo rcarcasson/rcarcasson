@@ -14,7 +14,7 @@ const rcarcasson = {
     code: ["Javascript", "Typescript", "PHP", "Java", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "videogames"],
     technologies: {
-        mobileApp: ["Ionic", "Flutter"],
+        mobileApp: ["Ionic", "Flutter", "React Native"],
         frontEnd: {
             js: ["Angular"],
             css: ["bootstrap"]
@@ -27,7 +27,7 @@ const rcarcasson = {
         misc: ["Firebase", "Socket.IO", "php"]
     },
     architecture: [ "Progressive web applications", "Single page applications"],
-    currentFocus: "Learning about Unit Test",
+    currentFocus: "Learning React Native",
     funFact: "Make a programm is like raising a child",
     pets: "A cat",
     videoGameSystem: "PS4",
