@@ -1,6 +1,6 @@
 <h2>¡Hola!👋, soy Ricardo Carcassón</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Mobile Developer en <a href="https://www.3it.cl">3it</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Frontend Developer en <a href="https://www.zentagroup.com/">Zenta Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rcarcasson?label=Follow)](https://twitter.com/intent/follow?screen_name=rcarcasson)
